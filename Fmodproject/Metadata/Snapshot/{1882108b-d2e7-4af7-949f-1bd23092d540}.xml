@@ -54,7 +54,7 @@
 			<value>highGain</value>
 		</property>
 		<property name="value">
-			<value>-21</value>
+			<value>-22.5</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{cb5fbb91-a337-44b0-a637-b920538ee5f1}</destination>
@@ -65,7 +65,7 @@
 			<value>midGain</value>
 		</property>
 		<property name="value">
-			<value>-24.5</value>
+			<value>-19.5</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{cb5fbb91-a337-44b0-a637-b920538ee5f1}</destination>
@@ -76,7 +76,7 @@
 			<value>lowGain</value>
 		</property>
 		<property name="value">
-			<value>-22</value>
+			<value>-4</value>
 		</property>
 		<relationship name="automatableObject">
 			<destination>{cb5fbb91-a337-44b0-a637-b920538ee5f1}</destination>
