@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{002583e7-30e7-4e4a-b41f-428b2c0d158b}">
+		<property name="assetPath">
+			<value>Sfx/Land/Land nexted event/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{760044ba-466c-4cd9-84a5-4d05ea1a6d97}</destination>
+		</relationship>
+	</object>
+</objects>
