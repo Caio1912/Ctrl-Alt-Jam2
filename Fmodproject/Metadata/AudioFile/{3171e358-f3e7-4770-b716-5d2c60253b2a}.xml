@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{3171e358-f3e7-4770-b716-5d2c60253b2a}">
 		<property name="assetPath">
-			<value>charge_human.wav</value>
+			<value>Sfx/Fireball/charge_human.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
