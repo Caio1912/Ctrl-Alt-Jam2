@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7cc60ac6-e7f1-4e36-8117-26514e483205}">
+		<property name="assetPath">
+			<value>Sfx/Fireball/Wood/Impact_fireball_wood.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.3076870748299321</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{760044ba-466c-4cd9-84a5-4d05ea1a6d97}</destination>
+		</relationship>
+	</object>
+</objects>
