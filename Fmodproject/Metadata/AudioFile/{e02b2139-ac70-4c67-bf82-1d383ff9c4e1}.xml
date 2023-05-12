@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e02b2139-ac70-4c67-bf82-1d383ff9c4e1}">
+		<property name="assetPath">
+			<value>Sfx/Fireball/Charge fireball.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.0528798185941044</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{760044ba-466c-4cd9-84a5-4d05ea1a6d97}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{10b419f9-d5e5-4d75-8f7c-a17c3fdd8629}">
+		<property name="assetPath">
+			<value>Sfx/Fireball/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{760044ba-466c-4cd9-84a5-4d05ea1a6d97}</destination>
+		</relationship>
+	</object>
+</objects>
